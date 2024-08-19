@@ -1,0 +1,17 @@
+{
+    "ogrenci": [
+        {
+            "no": 1,
+            "sifre": "111",
+            "ad": "111",
+            "mat": 0,
+            "fen": 0,
+            "turkce": 0,
+            "sosyal": 0,
+            "din": 0,
+            "ydil": 0,
+            "devamsizlik": 111,
+            "sinif": "11"
+        }
+    ]
+}
